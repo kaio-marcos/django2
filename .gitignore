@@ -1,0 +1,23 @@
+.Python
+.banana/
+
+#Distribution / packaging
+
+__pycache__
+*.log
+local_settings.py
+db.sqlite3
+
+.env
+.venv
+env/
+venv/
+ENV/
+
+/site
+.mypy_cache/
+
+.vscode
+.idea
+
+Pipfile
